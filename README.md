@@ -1,4 +1,17 @@
+<p align="center">
+  <img src="assets/logo.jpg" alt="BlindAid logo" width="140"/>
+</p>
 
+<h1 align="center">BlindAid</h1>
+
+<p align="center">
+  <b>Real-time, fully offline object detection for visually impaired users</b><br/>
+  100% on-device, zero internet required.
+</p>
+
+
+
+---
 **BlindAid** is an android accessibility app that helps blind and visually impaired users understand their surroundings in real time. The phone's camera continuously scans the environment, detects nearby objects using a fine-tuned YOLOv8 model, and announces them through spoken audio including their relative position so users can move through the world more safely and independently.
 
 Every part of the pipeline (capture →inference → and speech)  runs entirely on-device. No server, no network dependency, no compromise in areas with poor connectivity.
@@ -55,3 +68,8 @@ Open the project in Android Studio, let Gradle sync, then build and run on a phy
 
 Licensed under the [MIT License](LICENSE).
 
+---
+
+<p align="center">
+  <i>Built to give a voice to what the eyes can't see.</i>
+</p>
