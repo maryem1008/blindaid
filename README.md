@@ -48,7 +48,9 @@ Camera (CameraX) → Preprocessing → YOLOv8 (TFLite) → Position Mapping → 
 | Audio output | Android native TextToSpeech API |
 | Min SDK | API 24 (Android 7.0) |
 
+## Project Status
 
+BlindAid is an actively developed prototype. Future work is focused on improving detection coverage and announcing multiple objects per cycle for richer situational awareness.
 ## Getting Started
 
 ```bash
