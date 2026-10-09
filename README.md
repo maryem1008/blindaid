@@ -28,7 +28,7 @@ its purpose, main features, technologies, implementation, advantages,
 and current limitations.
 
 https://github.com/user-attachments/assets/b82c28f5-6e2f-4ccc-bbb5-dae315f3aae8
-)
+
 ## Features
 
 | | |
