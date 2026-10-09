@@ -13,6 +13,9 @@
 
 
 
+
+
+
 ---
 **BlindAid** is an android accessibility app that helps blind and visually impaired users understand their surroundings in real time. The phone's camera continuously scans the environment, detects nearby objects using a fine-tuned YOLOv8 model, and announces them through spoken audio including their relative position so users can move through the world more safely and independently.
 
