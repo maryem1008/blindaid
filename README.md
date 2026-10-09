@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="assets/logo.jpg" alt="BlindAid logo" width="140"/>
 </p>
@@ -9,7 +11,18 @@
   100% on-device, zero internet required.
 </p>
 
+---
 
+## 🎬 Project Overview
+
+Watch the video below for a complete overview of BlindAid, including
+its purpose, main features, technologies, implementation, advantages,
+and current limitations.
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/81acd8e8-67ae-4e6f-a937-48f4e0147526">
+  </a>
+</p>
 
 ---
 **BlindAid** is an android accessibility app that helps blind and visually impaired users understand their surroundings in real time. The phone's camera continuously scans the environment, detects nearby objects using a fine-tuned YOLOv8 model, and announces them through spoken audio including their relative position so users can move through the world more safely and independently.
