@@ -11,8 +11,14 @@
   100% on-device, zero internet required.
 </p>
 
----
 
+## 🎬 Project Overview
+
+Watch the video below for a complete overview of BlindAid, including
+its purpose, main features, technologies, implementation, advantages,
+and current limitations.
+
+https://github.com/user-attachments/assets/81acd8e8-67ae-4e6f-a937-48f4e0147526
 
 
 ---
