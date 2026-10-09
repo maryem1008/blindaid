@@ -27,8 +27,8 @@ Watch the video below for a complete overview of BlindAid, including
 its purpose, main features, technologies, implementation, advantages,
 and current limitations.
 
-https://github.com/user-attachments/assets/81acd8e8-67ae-4e6f-a937-48f4e0147526
-
+https://github.com/user-attachments/assets/b82c28f5-6e2f-4ccc-bbb5-dae315f3aae8
+)
 ## Features
 
 | | |
