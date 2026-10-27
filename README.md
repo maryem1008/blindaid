@@ -21,6 +21,13 @@
 
 Every part of the pipeline (capture →inference → and speech)  runs entirely on-device. No server, no network dependency, no compromise in areas with poor connectivity.
 
+## 🎬 Project Overview
+
+Watch the video below for a complete overview of BlindAid, including
+its purpose, main features, technologies, implementation, advantages,
+and current limitations.
+
+https://github.com/user-attachments/assets/b82c28f5-6e2f-4ccc-bbb5-dae315f3aae8
 
 ## Features
 
